@@ -2,8 +2,8 @@
 
 
 ### Education
-Business Intelligence Data Analysis and Reporting
-Administration & Hospitality Management
+- Business Intelligence Data Analysis and Reporting
+- Administration & Hospitality Management
 
 
 ### Work Experience
