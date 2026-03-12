@@ -14,6 +14,8 @@ building
 - Built an end‑to‑end BI solution using SQL, Power Query, data modeling, and DAX to analyze hotel revenue, cancellations, and guest behavior.
 - Designed a two‑page Power BI dashboard with KPIs, trends, and segment/channel insights for practical operational decision‑making.
 - Published full workflow and PBIX on GitHub
+
+assets/Guest Behavior and Booking Patterns.png
   
 ### SQL & Power BI - Retail Sales Analysis (February 2026)
  - Analyzed retail transaction data using SQL to uncover revenue trends, regional performance, and customer behavior.
