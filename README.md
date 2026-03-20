@@ -6,8 +6,6 @@ Business Intelligence & Operations professional transitioning into data analytic
 
 </div>
 
-
-<div style="text-align: justify">
   
 ## Core Competencies & Technical Skill
 - Data & BI: SQL, Power BI Desktop & Service, Excel Power Query, KPI reporting, ETL basics, Python, Microsoft Fabric (introductory)
@@ -17,22 +15,14 @@ Business Intelligence & Operations professional transitioning into data analytic
 - Soft Skills: Communication, teamwork, problem solving, adaptability, organization, relationship
 building
 
-</div>
-
-<div style="text-align: justify">
-  
 ## Projects
 ### SQL & Power BI Project - Hospitality Revenue & Guest Insights *(March 2026)*
 - Built an end‑to‑end BI solution using SQL, Power Query, data modeling, and DAX to analyze hotel revenue, cancellations, and guest behavior.
 - Designed a two‑page Power BI dashboard with KPIs, trends, and segment/channel insights for practical operational decision‑making.
 - Published full workflow and PBIX on GitHub
-- 
-</div>
-
-
   
 ### SQL & Power BI - Retail Sales Analysis *(February 2026)*
- - Analyzed retail transaction data using SQL to uncover revenue trends, regional performance, and customer behavior.
+- Analyzed retail transaction data using SQL to uncover revenue trends, regional performance, and customer behavior.
 - Created an interactive Power BI dashboard with KPIs, monthly trends, and dynamic slicers.
 - Shared SQL scripts, documentation, and PBIX on GitHub
 
