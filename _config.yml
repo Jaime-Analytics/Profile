@@ -1,9 +1,9 @@
 author:
   name: "Jaime Echegaray"
-  avatar: "/assets/avatar.jpg"   # update with your actual file name
+  avatar: "/assets/image.jpeg"
 
 title: "Jaime Echegaray"
-logo: "/assets/avatar.jpg"       # optional — shows image at top
+logo: "/assets/image.jpeg"
 description: "Operations & BI | Data Analytics Portfolio"
 show_downloads: false
 theme: jekyll-theme-minimal
