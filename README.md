@@ -10,10 +10,10 @@ Business Intelligence & Operations professional transitioning into data analytic
 
 ## Core Competencies & Technical Skill  
 - <div style="text-align: justify">Data & BI: SQL, Power BI Desktop & Service, Excel Power Query, KPI reporting, ETL basics, Python, Microsoft Fabric (introductory)
-- Data Practices: Data cleaning, data quality checks, documentation, reproducible workflows
-- Tools: SQL Server Management Studio (SSMS), Salesforce (workflows, dashboards), ClickUp, Google Workspace, Microsoft 365
-- Operations & Admin: Scheduling, budgeting, vendor management, reporting, process documentation
-- Soft Skills: Communication, teamwork, problem solving, adaptability, organization, relationship
+- <div style="text-align: justify">Data Practices: Data cleaning, data quality checks, documentation, reproducible workflows
+- <div style="text-align: justify">Tools: SQL Server Management Studio (SSMS), Salesforce (workflows, dashboards), ClickUp, Google Workspace, Microsoft 365
+- <div style="text-align: justify">Operations & Admin: Scheduling, budgeting, vendor management, reporting, process documentation
+- <div style="text-align: justify">Soft Skills: Communication, teamwork, problem solving, adaptability, organization, relationship
 building
 
 ## Projects
