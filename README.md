@@ -13,8 +13,7 @@ Business Intelligence & Operations professional transitioning into data analytic
 - <div style="text-align: justify">Data Practices: Data cleaning, data quality checks, documentation, reproducible workflows
 - <div style="text-align: justify">Tools: SQL Server Management Studio (SSMS), Salesforce (workflows, dashboards), ClickUp, Google Workspace, Microsoft 365
 - <div style="text-align: justify">Operations & Admin: Scheduling, budgeting, vendor management, reporting, process documentation
-- <div style="text-align: justify">Soft Skills: Communication, teamwork, problem solving, adaptability, organization, relationship
-building
+- <div style="text-align: justify">Soft Skills: Communication, teamwork, problem solving, adaptability, organization, relationship building
 
 ## Projects
 ### SQL & Power BI Project - Hospitality Revenue & Guest Insights *(March 2026)*
