@@ -1,15 +1,8 @@
 # Jaime Echegaray
-Operations & BI | Data Analytics Portfolio
-
-📬 **Email:** jaime_echegaray_s@hotmail.com 
-🔗 **LinkedIn:** www.linkedin.com/in/jaime-e 
-🌐 **GitHub:** https://github.com/Jaime-Analytics  
-📍 **Location:** Calgary & Bow Valley Region, Alberta
-
-## Professional Profile
-Business Intelligence & Operations professional transitioning into data analytics...
-
-
+# 📬 **Email:** jaime_echegaray_s@hotmail.com 
+# 🔗 **LinkedIn:** www.linkedin.com/in/jaime-e 
+# 🌐 **GitHub:** https://github.com/Jaime-Analytics  
+# 📍 **Location:** Calgary & Bow Valley Region, Alberta
 
 # 👤 Professional Profile
 Business Intelligence & Operations professional transitioning into data analytics after completing the BI, Data Analysis & Reporting program at SAIT. Skilled in SQL, Power BI, Tableau, Excel, and SSMS, with hands-on experience preparing and validating data, building dashboards, and supporting financial and operational reporting. I bring a people-first communication style, strong technical adaptability, and a genuine curiosity that drives me to learn quickly and take on new tools and data environments. Currently enrolled in the SAIT BI Co-op Program and looking for a placement where I can apply my skills, deepen my experience with pipelines and analytics workflows, and contribute to clear, reliable, decision-ready insights for multidisciplinary teams.
