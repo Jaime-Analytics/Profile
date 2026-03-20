@@ -5,11 +5,9 @@ author:
 title: "Jaime Echegaray"
 logo: "/assets/image.jpeg"
 description: "Operations & BI | Data Analytics Portfolio"
-
-📬 **Email:** jaime_echegaray_s@hotmail.com |
-🔗 **LinkedIn:** www.linkedin.com/in/jaime-e |
-🌐 **GitHub:** https://github.com/Jaime-Analytics |  
-📍 **Location:** Calgary & Bow Valley Region, Alberta 
-
+linkedin: "www.linkedin.com/in/jaime-e"
+email: "jaime_echegaray_s@hotmail.com"
+github: "https://github.com/Jaime-Analytics"
+location: "Calgary & Bow Valley Region, Alberta"
 show_downloads: false
 theme: jekyll-theme-minimal
