@@ -48,7 +48,7 @@ building
 - <div style="text-align: justify">Administration & Hospitality Management | San Ignacio de Loyola Institue (December 2012)
 
 ## Certifications
-- <div style="text-align: justify">Salesforce Admin Certification Specialization </div> *(October 2025)*
+- <div style="text-align: justify">Salesforce Admin Certification Specialization</div> *(October 2025)*
 - <div style="text-align: justify">SAIT Business Intelligence Data Analysis and Reporting  *(June 2025)*
 - <div style="text-align: justify">Cisco Data Analytics (August 2025)
 - <div style="text-align: justify">Python Essentials 1 & 2 (March - April 2025)
