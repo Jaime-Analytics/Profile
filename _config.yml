@@ -1,13 +1,17 @@
+title: "Jaime Echegaray"
+description: "Operations & BI | Data Analytics Portfolio"
+theme: jekyll-theme-minimal
+show_downloads: false
+
 author:
   name: "Jaime Echegaray"
   avatar: "/assets/image.jpeg"
+  bio: "Business Intelligence & Operations professional transitioning into Data Analytics."
 
-title: "Jaime Echegaray"
-logo: "/assets/image.jpeg"
-description: "Operations & BI | Data Analytics Portfolio"
 linkedin: "www.linkedin.com/in/jaime-e"
 email: "jaime_echegaray_s@hotmail.com"
 github: "https://github.com/Jaime-Analytics"
 location: "Calgary & Bow Valley Region, Alberta"
-show_downloads: false
-theme: jekyll-theme-minimal
+
+plugins:
+  - jekyll-seo-tag
