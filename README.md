@@ -8,6 +8,8 @@ Business Intelligence & Operations professional transitioning into data analytic
 
 <br>
 
+<div style="background-color:#f5f5f5; padding:15px; border-radius:8px; text-align: justify;">
+
 ## Core Competencies & Technical Skill  
 - <div style="text-align: justify">Data & BI: SQL, Power BI Desktop & Service, Excel Power Query, KPI reporting, ETL basics, Python, Microsoft Fabric (introductory)
 - <div style="text-align: justify">Data Practices: Data cleaning, data quality checks, documentation, reproducible workflows
@@ -15,6 +17,11 @@ Business Intelligence & Operations professional transitioning into data analytic
 - <div style="text-align: justify">Operations & Admin: Scheduling, budgeting, vendor management, reporting, process documentation
 - <div style="text-align: justify">Soft Skills: Communication, teamwork, problem solving, adaptability, organization, relationship
 building
+
+</div>
+
+<br>
+
 
 ## Projects
 ### SQL & Power BI Project - Hospitality Revenue & Guest Insights *(March 2026)*
