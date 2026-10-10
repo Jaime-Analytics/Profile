@@ -2,18 +2,18 @@
 
 <div style="text-align: justify">
   
-Business Intelligence & Operations professional transitioning into data analytics after completing the BI, Data Analysis & Reporting program at SAIT. Skilled in SQL, Power BI, Tableau, Excel, and SSMS, with hands-on experience preparing and validating data, building dashboards, and supporting financial and operational reporting. I bring a people first communication style, strong technical adaptability, and a genuine curiosity that drives me to learn quickly and take on new tools and data environments. Currently enrolled in the SAIT BI Co-op Program and looking for a placement where I can apply my skills, deepen my experience with pipelines and analytics workflows, and contribute to clear, reliable, decision-ready insights for multidisciplinary teams.
+HR & Operations professional with experience supporting payroll administration, onboarding and offboarding, employee documentation, workforce coordination, and daily office operations for a 70+ employee team. Skilled in HRIS navigation, employee support, process improvement, and cross team communication. Background in Business Intelligence and data analysis, with strong ability to create clarity, streamline workflows, and maintain organized, efficient operations.  Experienced in property management and coordination, providing clear, consistent communication to tenants, contractors, and customers.
 
 </div>
 
 <br>
 
 ## Core Competencies & Technical Skill  
-- <div style="text-align: justify">Data & BI: SQL, Power BI Desktop & Service, Excel Power Query, KPI reporting, ETL basics, Python, Microsoft Fabric (introductory)
-- <div style="text-align: justify">Data Practices: Data cleaning, data quality checks, documentation, reproducible workflows
-- <div style="text-align: justify">Tools: SQL Server Management Studio (SSMS), Salesforce (workflows, dashboards), ClickUp, Google Workspace, Microsoft 365
+- <div style="text-align: justify">HR & Operations: SPayroll administration, onboarding/offboarding, employee documentation, HRIS navigation, workforce coordination, office operations, vendor communication, property management/coordination, compliance support.
+- <div style="text-align: justify">Business & Data Analysis:SQL (SMSMS), Python, Power BI, Excel (Power Query, PivotTables), KPI tracking, data validation, ETL processes, dashboards, reporting, operational insights.
+- <div style="text-align: justify">Tools & Platforms:Google Workspace, Microsoft 365, SharePoint, Salesforce, ClickUp, Jira, Microsoft Teams, BambooHR, Payworks, QuickBooks, Canva, Figma, WordPress (basic), Microsoft Fabric (intro).
 - <div style="text-align: justify">Operations & Admin: Scheduling, budgeting, vendor management, reporting, process documentation
-- <div style="text-align: justify">Soft Skills: Communication, teamwork, problem solving, adaptability, organization, relationship building
+- <div style="text-align: justify">Soft Skills:Communication, organization, problem solving, adaptability, stakeholder coordination, customer service, attention to detail, relationship building.
 
 ## Projects
 ### SQL & Power BI Project - Hospitality Revenue & Guest Insights *(March 2026)*
@@ -32,15 +32,21 @@ Business Intelligence & Operations professional transitioning into data analytic
 - <div style="text-align: justify">Worked with stakeholders to clarify requirements and present insights under tight timelines
 
 ## Work Experience
-### Operations & Property Manager | Business Intelligence Analyst @ Eco Friendly Summit *(May 2017 - Present)* 
-- <div style="text-align: justify">Managed daily operations across housekeeping, maintenance, and guest services while serving as the primary client contact for communication, coordination, and issue resolution.
-- <div style="text-align: justify">Built KPI tracking systems and automated workflows using Excel Power Query and Google Workspace, improving planning, forecasting, and operational visibility.
-- <div style="text-align: justify">Led customer acquisition and long‑term relationship management through site visits, tailored service plans, and a people‑first communication approach.
-- <div style="text-align: justify">Supported major business growth by contributing to budgeting, forecasting, digital marketing strategies, and the creation of SOPs and onboarding materials for scalable operations.
 
-### Front Desk Associate | Guest Services & Administration @ The Grand Canadian Resort Vacation Club *(July 2023 - February 2025)*
-- <div style="text-align: justify">Supported members and guests with reservations, check‑ins/outs, service inquiries, and daily administrative tasks (payments, documentation, scheduling, reporting) to keep operations organized and running smoothly.
-- <div style="text-align: justify">Coordinated with housekeeping and maintenance teams to resolve issues quickly and strengthened guest satisfaction through clear communication, problem‑solving, and a consistent people‑first approach.
+### Office Manager & HR Administrator @ Discover Banff Tours *(June 2026- Present)*
+- <div style="text-align: justify">Support HR operations for a workforce of 70+ employees, including onboarding/offboarding, documentation, compliance, probation tracking, and benefits eligibility and enrollment.
+- <div style="text-align: justify">Administer payroll updates, changes, and employee data as part of full cycle payroll processing, ensuring accuracy across seasonal and salaried staff.
+- <div style="text-align: justify">Assist employees with HRIS navigation, system access, troubleshooting, and day to day support to maintain smooth operations.
+- <div style="text-align: justify">Manage office operations, vendor communication, supply coordination, and organize company events and wellness activities for team engagement.
+- <div style="text-align: justify">Oversee property management/coordination tasks including move ins/move outs, tenant communication, and contractor coordination while maintaining organized records and improving workflows.
+
+### Operations Coorinator/Analyst @ Eco Friendly Summit *(May 2017 - May 2026)* 
+- <div style="text-align: justify">Analyzed scheduling, labour hours, service data, and inventory trends to improve staffing decisions, budgeting accuracy, and operational planning.
+- <div style="text-align: justify">Developed SOPs, reporting templates, and workflow documentation to standardize processes, reduce errors, and support training.
+- <div style="text-align: justify">Managed contractor and subcontractor payments, light bookkeeping, invoicing, and documentation to maintain financial accuracy.
+- <div style="text-align: justify">Coordinated daily operations including scheduling, inventory tracking, vendor communication, and client support as the primary point of contact.
+- <div style="text-align: justify">Supported HR and business operations through onboarding assistance, data tracking, reporting, and workflow improvements that increased efficiency.
+
 
 ## Education
 - <div style="text-align: justify">Business Intelligence Data Analysis and Reporting | Southern Alberta Institute of Technology (May 2025)
